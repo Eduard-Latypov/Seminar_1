@@ -7,4 +7,3 @@ if (secondNumber * secondNumber == firstNumber)
     System.Console.WriteLine("Первое число является квадратом второго");
 else
     System.Console.WriteLine("Первое число никак не связано со вторым");
-
